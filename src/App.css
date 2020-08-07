@@ -1,0 +1,45 @@
+* {
+  scroll-behavior: smooth;
+  font-family: "Roboto";
+  margin: 0;
+  padding: 0;
+  
+}
+html,body {
+  overflow-x: hidden;
+
+}
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+.navImage{
+
+  position: absolute;
+  margin:3.5%;
+  height:60px;
+  left:50px;
+
+}
+/* 
+.dummyNav{
+
+  position:absolute;
+  margin-top: 40px;
+} */
+
+@media only screen and (max-width: 600px) {
+  
+  html,body{
+    overflow-x: hidden;
+  }
+
+.navImage{
+
+  height:50px;
+  margin:20px;
+  left:0;
+
+}
+
+}

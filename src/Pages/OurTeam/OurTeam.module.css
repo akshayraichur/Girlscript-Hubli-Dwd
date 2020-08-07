@@ -1,0 +1,60 @@
+.img {
+  width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border: 3px solid #ff6d38;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.705);
+  transition: all 0.3s ease;
+}
+
+.img:hover {
+  transform: scale(1.2);
+}
+.team {
+  background-image: url("../../Assets/imgs/mainbg.svg");
+  height: auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* top: -50px; */
+  padding-top: 90px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+span {
+  color: white;
+  /* text-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5); */
+}
+
+.name {
+  color: #ff6d38 !important;
+}
+
+h4 {
+  color: #ffffff;
+}
+i {
+  color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  .team {
+    padding-top: 40px;
+  }
+
+  .img {
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 3px solid #ff6d38;
+  }
+}

@@ -1,0 +1,69 @@
+.MainEvent {
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-image: url("https://miro.medium.com/max/3004/1*r3UzROPME99X5TRm81G2vw.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+}
+
+.eventWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background: rgba(41, 41, 41, 0.7);
+}
+
+.MainEvent h2 {
+  color: white;
+  font-size: 2rem;
+}
+.MainEvent h1 {
+  color: white;
+  font-size: 2.5em;
+  margin-top: 2em;
+}
+
+.MainEvent a button {
+  background-color: #ffa500;
+  padding: 10px;
+  border: none;
+  outline: none;
+  width: 170px;
+  color: white;
+  border-radius: 20px;
+  font-family: "Roboto";
+}
+
+.card-container {
+  height: 500px; /* temp */
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: auto;
+  color: #2a2a2a;
+}
+
+.my-2 {
+  background-color: none;
+  margin-left: 0.5%;
+}
+
+
+.Events{
+
+  background-image: url('../../Assets/imgs/mainbg.svg');
+  height:auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
