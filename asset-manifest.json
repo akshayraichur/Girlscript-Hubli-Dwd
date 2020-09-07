@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Girlscript-Hubli-Dwd/static/css/main.61c122d4.chunk.css",
-    "main.js": "/Girlscript-Hubli-Dwd/static/js/main.ad84a6a2.chunk.js",
+    "main.js": "/Girlscript-Hubli-Dwd/static/js/main.d3bed800.chunk.js",
     "runtime-main.js": "/Girlscript-Hubli-Dwd/static/js/runtime-main.d3726f84.js",
     "static/css/2.808eb894.chunk.css": "/Girlscript-Hubli-Dwd/static/css/2.808eb894.chunk.css",
     "static/js/2.d8fafa60.chunk.js": "/Girlscript-Hubli-Dwd/static/js/2.d8fafa60.chunk.js",
     "index.html": "/Girlscript-Hubli-Dwd/index.html",
-    "precache-manifest.d67f7a9536f775ec8479fc1a01eec05b.js": "/Girlscript-Hubli-Dwd/precache-manifest.d67f7a9536f775ec8479fc1a01eec05b.js",
+    "precache-manifest.bee796df278f4061d60c7a0c3c7818e7.js": "/Girlscript-Hubli-Dwd/precache-manifest.bee796df278f4061d60c7a0c3c7818e7.js",
     "service-worker.js": "/Girlscript-Hubli-Dwd/service-worker.js",
     "static/js/2.d8fafa60.chunk.js.LICENSE.txt": "/Girlscript-Hubli-Dwd/static/js/2.d8fafa60.chunk.js.LICENSE.txt",
     "static/media/AkshataKulkarni.jpg": "/Girlscript-Hubli-Dwd/static/media/AkshataKulkarni.e0aab40f.jpg",
@@ -42,6 +42,6 @@
     "static/css/2.808eb894.chunk.css",
     "static/js/2.d8fafa60.chunk.js",
     "static/css/main.61c122d4.chunk.css",
-    "static/js/main.ad84a6a2.chunk.js"
+    "static/js/main.d3bed800.chunk.js"
   ]
 }

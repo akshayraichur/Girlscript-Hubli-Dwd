@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8a3252b849db799251b7635835ef524",
+    "revision": "afde89d43a686cd17e78e73be8ca66ce",
     "url": "/Girlscript-Hubli-Dwd/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Girlscript-Hubli-Dwd/static/css/2.808eb894.chunk.css"
   },
   {
-    "revision": "7c42624d76d7ebd2e44f",
+    "revision": "a6d57f1c9be592b90f02",
     "url": "/Girlscript-Hubli-Dwd/static/css/main.61c122d4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Girlscript-Hubli-Dwd/static/js/2.d8fafa60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c42624d76d7ebd2e44f",
-    "url": "/Girlscript-Hubli-Dwd/static/js/main.ad84a6a2.chunk.js"
+    "revision": "a6d57f1c9be592b90f02",
+    "url": "/Girlscript-Hubli-Dwd/static/js/main.d3bed800.chunk.js"
   },
   {
     "revision": "776c7ce36abb93fc3449",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Girlscript-Hubli-Dwd/precache-manifest.d67f7a9536f775ec8479fc1a01eec05b.js"
+  "/Girlscript-Hubli-Dwd/precache-manifest.bee796df278f4061d60c7a0c3c7818e7.js"
 );
 
 self.addEventListener('message', (event) => {
