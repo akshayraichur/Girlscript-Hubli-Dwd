@@ -1,0 +1,16 @@
+{
+  "short_name": "GS - Hubli Dharwad",
+  "name": "Girlscript - Hubli Dharwad Chapter",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "64x64",
+      "type": "image/svg"
+    }
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
