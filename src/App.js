@@ -18,7 +18,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
 	return (
 		<div className='App'>
-			<BrowserRouter>
+			<BrowserRouter basename='/Girlscript-Hubli-Dwd'>
 				<SideMenu />
 				<div className='dummyNav'>
 					<NavLink to='/'>
